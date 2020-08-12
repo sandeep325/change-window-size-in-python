@@ -1,0 +1,3 @@
+1) in first entry enter the width (px)
+2) in 2 nd  entry enter the height (px)
+3) click in the set btn after fill the entries
